@@ -1,1 +1,3 @@
 # UAS-BIGDATA
+Selvira Sanusi
+NIM : 1182002016 
